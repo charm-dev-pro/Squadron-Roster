@@ -1,0 +1,45 @@
+SMITH,JAMES
+C/Maj.
+Leadership:NO
+PT:NO
+Aerospace:NO
+CD:NO
+SDA:YES
+Promotion Board:NO
+Drill:NO
+JOHNSON,CARTER
+C/Maj.
+Leadership:NO
+PT:NO
+Aerospace:NO
+CD:NO
+SDA:NO
+Promotion Board:NO
+Drill:NO
+CLARK,ANDERS
+C/Maj.
+Leadership:NO
+PT:NO
+Aerospace:NO
+CD:NO
+SDA:NO
+Promotion Board:NO
+Drill:NO
+HICK,BILL
+C/A1C
+Leadership:YES
+PT:YES
+Aerospace:YES
+CD:NO
+SDA:N/A
+Promotion Board:N/A
+Drill:NO
+CAMERSON,CODY
+C/Maj.
+Leadership:YES
+PT:YES
+Aerospace:YES
+CD:YES
+SDA:YES
+Promotion Board:YES
+Drill:YES
